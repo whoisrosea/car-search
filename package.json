@@ -1,0 +1,22 @@
+{
+  "name": "car_search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.47",
+    "axios": "^1.7.2",
+    "capsolver": "^1.0.1",
+    "chromedriver": "^126.0.4",
+    "install": "^0.13.0",
+    "npm": "^10.8.1",
+    "puppeteer": "^22.12.1",
+    "selenium-webdriver": "^4.22.0",
+    "xlsx": "^0.18.5"
+  }
+}
